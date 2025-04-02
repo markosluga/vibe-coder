@@ -59,3 +59,5 @@ python vibe-coder.py
 ```
 
 If you've read this far inspect the code before you run it.
+
+## April foools!
