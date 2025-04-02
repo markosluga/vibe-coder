@@ -1,5 +1,7 @@
 # Vibe-Coder
 
+April fools! I got ya!
+
 ![Vibe-Coder Logo](assets/vibe-coding-asistant.jpg)
 
 A helper Python script that helps you get started with vibe-coding using AWS services.
